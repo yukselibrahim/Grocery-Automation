@@ -1,0 +1,8 @@
+C:\Users\ibrah\Desktop\C#\Manav\Manav\bin\Debug\Manav.exe.config
+C:\Users\ibrah\Desktop\C#\Manav\Manav\bin\Debug\Manav.exe
+C:\Users\ibrah\Desktop\C#\Manav\Manav\bin\Debug\Manav.pdb
+C:\Users\ibrah\Desktop\C#\Manav\Manav\obj\Debug\Manav.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\C#\Manav\Manav\obj\Debug\Manav.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\Desktop\C#\Manav\Manav\obj\Debug\Manav.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\C#\Manav\Manav\obj\Debug\Manav.exe
+C:\Users\ibrah\Desktop\C#\Manav\Manav\obj\Debug\Manav.pdb
